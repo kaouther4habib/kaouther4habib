@@ -4,7 +4,7 @@
 <h3 align="center">Web, mobile development (Flutter), and data science are all things I'm interested in.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/kaouther_habib" target="blank"><img src="https://img.shields.io/twitter/follow/@kaouther_habib?logo=twitter&style=for-the-badge" alt="@kaouther_habib" /></a> </p>
+
 
 ## :  About me
 - 🏫 I am a `Final year student` at the higher school of computer science of Sidi Bel abbes [ESI-SBA]
